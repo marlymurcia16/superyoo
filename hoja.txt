@@ -1,0 +1,36 @@
+{
+  "colegio" : "El Libertador",
+  "ciudad"  : "Bogota D.C",
+  "estamos"  :  2019,
+  "cursos" :  [
+    {
+     "nomcolegio" : "La arabia"
+     "grado"  :  801,
+     "año"  : 2015,
+     "materiasfav" : [
+         "Informatica",
+         "Ingles"
+          ]
+     },
+    {
+     "nomcolegio" : "La arabia"
+     "grado"  :  901,
+     "año"  : 2016,
+     "materiasfav" : [
+         "Matematicas",
+         "Ingles"
+         ]
+     },
+     {
+     "nomcolegio" : "El Libertador"
+     "grado"  :  1004,
+     "año"  : 2018,
+     "materiasfav" : [
+         "Programacion Basica",
+         "Ingles"
+         "Biologia"
+          ]
+     }
+   ]
+}
+
